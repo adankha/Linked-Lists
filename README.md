@@ -15,6 +15,7 @@ Please read the comments, variable names, and function names to get a better sen
 Functions in llist.h:
 
 // hidden implementation of list_struct
+
 typedef struct list_struct LIST;
 
 extern LIST *lst_create(); 
